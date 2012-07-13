@@ -1,45 +1,34 @@
-# [HTML5 Boilerplate](http://html5boilerplate.com)
+# [ReadySalted Boilerplate]
 
-HTML5 Boilerplate is a professional front-end template that helps you build fast, robust, adaptable, and future-proof websites. Spend more time developing and less time reinventing the wheel.
+Derived from the popular HTML5 Boilerplate, ReadySalted is a minimal starting part for more experienced developers who want a quick responsive HTMl5 template. It doesn't suggest anything in terms of coding or visual style.
 
-This project is the product of many years of iterative development and combined community knowledge. It does not impose a specific development philosophy or framework, so you're free to architect your code in the way that you want.
+As a more balding developer the HTML5 Boilerplate has been a great kick up the bum to get up to date with the latest HTML5 trends - however it's also becoming annoying to have to strip it down every time, hence this repo.
 
 
 ## Quick start
 
-Clone the git repo - `git clone git://github.com/h5bp/html5-boilerplate.git` - or [download it](https://github.com/h5bp/html5-boilerplate/zipball/master)
+
+Just clone it each time or download it and save it as a template in your favourite editor.
+
+Clone - `git@github.com:specificgravity/readysalted-boilterplate.git` - or [download it](https://github.com/specificgravity/readysalted-boilterplate/zipball/master)
 
 
 ## Features
 
-* HTML5 ready. Use the new elements with confidence.
-* Cross-browser compatible (Chrome, Opera, Safari, Firefox 3.6+, IE6+).
-* Designed with progressive enhancement in mind.
-* CSS normalizations and common bug fixes.
-* IE-specific classes for easier cross-browser control.
-* A default print stylesheet, performance optimized.
-* Mobile browser optimizations.
-* Protection against any stray `console.log` causing JavaScript errors in IE6/7.
-* The latest jQuery via CDN, with a local fallback.
-* A custom Modernizr build for feature detection.
-* An optimized Google Analytics snippet.
-* Apache server caching, compression, and other configuration defaults for Grade-A performance.
-* Cross-domain Ajax and Flash.
-* "Delete-key friendly." Easy to strip out parts you don't need.
-* Extensive inline and accompanying documentation.
+* Very minimal HTML5 Boilerplate
+* Nothing suggested in terms of coding or visual style.
+* Bring your own css, javascript, robots.txt, image, favicon etc files
 
 
 ## Contributing
 
-Anyone and everyone is welcome to [contribute](https://github.com/h5bp/html5-boilerplate/wiki/contribute). Hundreds of developers have helped make the HTML5 Boilerplate what it is today.
+Feel free to contribute on the understanding that for this project less is more.
 
 
 ## Project information
 
-* Source: http://github.com/h5bp/html5-boilerplate
-* Web: http://html5boilerplate.com
-* Docs: http://html5boilerplate.com/docs
-* Twitter: http://twitter.com/h5bp
+* Source: https://github.com/specificgravity/readysalted-boilterplate
+* Twitter: @samjonsmith
 
 
 ## License
